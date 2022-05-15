@@ -1,0 +1,1 @@
+This project will hope to uncover some trends that can reveal what makes a song successful using the Top Hits playlists by Spotify from the years 2010-2019
